@@ -13,3 +13,7 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.accordion-button:not(.collapsed) {
+  background-color: transparent;
+}
