@@ -17,3 +17,7 @@
 .accordion-button:not(.collapsed) {
   background-color: transparent;
 }
+
+.table-group-divider {
+  border-top: 2px solid rgb(41, 127, 253, .2);
+}
